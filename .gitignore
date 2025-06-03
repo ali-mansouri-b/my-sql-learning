@@ -1,0 +1,4 @@
+# Database files (local development only)
+*.db
+*.sqbpro
+*.sqlite
