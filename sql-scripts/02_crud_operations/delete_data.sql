@@ -1,1 +1,1 @@
-DELETE FROM students where id = 3;
+DELETE FROM students;
